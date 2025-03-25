@@ -19,7 +19,7 @@ A Node.js backend application that provides an API for downloading videos. The a
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd downloader_back_app
+cd VidDown
 ```
 
 2. Install dependencies:
